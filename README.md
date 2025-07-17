@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sudishta Kumar Yadav🧑‍🎓</h1>
 <h3 align="center">Data Science & Software Engineering Development for Real-World Impact</h3>
+## 👋 About Me
+
+Hi, I'm **Sudishta Kumar Yadav**, a Computer Science undergraduate specializing in Artificial Intelligence.
+
+- 💻 I love building full-stack web applications using **Python**, **React**, **Node.js**, and **Django**
+- 📈 I'm passionate about **algorithmic trading**, automation, and solving real-world problems
+- 🧠 Practicing **DSA in C++**, with **500+ problems solved** on **LeetCode** and **GFG**
+- 🚀 Currently working on an **Algo Trading Web App** that scans 1000+ stocks using technical filters
+- 🔐 Focused on writing clean, secure, and scalable code
+- 🎯 Always eager to collaborate on **AI**, **FinTech**, and **open-source** projects
+
+📫 [sudishtakumar2023@gmail.com](mailto:sudishtakumar2023@gmail.com) | [LinkedIn](https://linkedin.com/in/sudishtakumar)
+
+
 
 
 <img align = "right" alt ="coding" width ="400" src="https://syncwin.com/wp-content/uploads/2020/09/Mohammed-Wasim-Akram-Working-Mode-Avatar-Founder-of-SyncWin-HD.png">  
