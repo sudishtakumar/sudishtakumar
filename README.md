@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sudishta Kumar Yadav🧑‍🎓</h1>
+ <h1 align="center">Hi 👋, I'm Sudishta Kumar Yadav🧑‍🎓</h1>
 <h3 align="center">Data Science & Software Engineering Development for Real-World Impact</h3>
 ## 👋 About Me
 
 Hi, I'm **Sudishta Kumar Yadav**, a Computer Science undergraduate specializing in Artificial Intelligence.
 
-- 💻 I love building full-stack web applications using **Python**, **React**, **Node.js**, and **Django**
+- 💻 I love building full-stack web applications using **Python**, **React**, **Node.js**, and **Django** ** API** , ** Data Visualization **, ** Machine Learning  **
 - 📈 I'm passionate about **algorithmic trading**, automation, and solving real-world problems
 - 🧠 Practicing **DSA in C++**, with **500+ problems solved** on **LeetCode** and **GFG**
 - 🚀 Currently working on an **Algo Trading Web App** that scans 1000+ stocks using technical filters
