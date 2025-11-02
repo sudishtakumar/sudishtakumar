@@ -6,7 +6,7 @@ Hi, I'm **Sudishta Kumar Yadav**, a Computer Science undergraduate specializing 
 
 - 💻 I love building full-stack web applications using **Python**, **React**, **Node.js**, and **Django** **API** , **Data Visualization**, **Machine Learning**
 - 📈 I'm passionate about **algorithmic trading**, automation, and solving real-world problems
-- 🧠 Practicing **DSA in C++ , Python **, with **750+ problems solved** on **LeetCode** and **GFG**
+- 🧠 Practicing **DSA in C++ , Python**, with **750+ problems solved** on **LeetCode** and **GFG**
 - 🚀 Currently working on an **Algo Trading Web App** that scans 1000+ stocks using technical filters
 - 🔐 Focused on writing clean, secure, and scalable code
 - 🎯 Always eager to collaborate on **AI**, **FinTech**, and **open-source** projects
