@@ -52,13 +52,18 @@ My goal is to combine **technology + finance** to build intelligent, automated s
 ### 🧰 Projects  
 
 - 🔥 **Alpha-Run Predictor AI**  
-   AI-based stock prediction using ML + NLP + real-time dashboards  
+   AI-based stock prediction using ML + NLP + real-time dashboards
+    🔗 GitHub: https://github.com/sudishtakumar/DeepTradeAI  
 
 - 🤖 **HFT Engine Trade Bot**  
-   Algorithmic trading system using APIs & sentiment + price analysis  
+   Algorithmic trading system using APIs & sentiment + price analysis
+    🔗 GitHub: https://github.com/sudishtakumar/Algo_Tading_Bot
 
 - ⚡ **Job Automation System**  
-    Automated LinkedIn job applications using Python & Selenium  
+    Automated LinkedIn job applications using Python & Selenium
+    🔗 GitHub: https://github.com/sudishtakumar/EasyApplyJobsBot
+  
+    
 
 ### 🌍 Community & Sharing  
 
