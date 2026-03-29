@@ -1,5 +1,133 @@
- <h1 align="center">Hi 👋, I'm Sudishta Kumar Yadav🧑‍🎓</h1>
-<h3 align="center"> Software Engineering Development & Data Science for Real-World Impact</h3>
+<!-- ================= HERO SECTION ================= -->
+<h1 align="center">Hi  👋, I'm Sudishta Kumar Yadav🧑‍🎓</h1>
+
+<h3 align="center">
+🚀 Full Stack Python Developer | Data Science |Equity Derivatives & Algo Trading
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Data+Science;Equity+%26+Derivatives+Algorithmic+Trading" />
+</p>
+
+
+
+---
+<!-- ================= BUTTONS ================= -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudishtakumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sudishta-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sudishtakumar777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/sudishtakumar">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://sudishtakumar.github.io/MyWebsites/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://drive.google.com/file/d/19FcZNiQ1nLD3RluGpSkXYqnJpKvQLVHt/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=readthedocs" />
+  </a>
+  <a href="https://drive.google.com/uc?export=download&id=19FcZNiQ1nLD3RluGpSkXYqnJpKvQLVHt">
+    <img src="https://img.shields.io/badge/Resume-Download-yellow?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudishtakumar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+<!-- ================= ABOUT ================= -->
+
+
+<!-- ================= TECH STACK ================= -->
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,django,flask,mysql,postgres,mongodb,aws,git&perline=6" />
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects  
+
+### 🔥 Alpha-Run Predictor AI  
+📊 AI-based stock prediction using ML + NLP  
+🔗 https://github.com/sudishtakumar/Alpha-Run-Predictor-AI  
+
+---
+
+### 🤖 HFT Engine Trade Bot  
+📈 Real-time algorithmic trading system using APIs  
+🔗 https://github.com/sudishtakumar/HFT-Engine-TradeBot-  
+
+---
+
+### ⚡ Job Application Automation  
+🤖 Automated job application system using Selenium  
+
+---
+
+<!-- ================= STATS ================= -->
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudishtakumar&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudishtakumar&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<h3 align="center">💬 Let’s Build Scalable & Intelligent Systems Together!</h3>
+
+<p align="center">
+⭐ Turning Data into Decisions | Code into Real-World Impact
+</p>
+
+
+
+
+
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sudishtakumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sudishta-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:sudishtakumar777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/sudishtakumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <!-- Portfolio Website -->
+  <a href="https://sudishtakumar.github.io/MyWebsites/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome" />
+  </a>
+
+  <!-- Resume View -->
+  <a href="https://drive.google.com/file/d/19FcZNiQ1nLD3RluGpSkXYqnJpKvQLVHt/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=readthedocs" />
+  </a>
+
+  <!-- Resume Download -->
+  <a href="https://drive.google.com/uc?export=download&id=19FcZNiQ1nLD3RluGpSkXYqnJpKvQLVHt">
+    <img src="https://img.shields.io/badge/Resume-Download-yellow?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudishtakumar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 ## 👋 About Me
 
 Hi, I'm **Sudishta Kumar Yadav**, a Computer Science undergraduate specializing in Artificial Intelligence.
