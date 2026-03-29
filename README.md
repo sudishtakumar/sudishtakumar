@@ -37,97 +37,6 @@
   <img src="https://komarev.com/ghpvc/?username=sudishtakumar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
----
-
-<!-- ================= ABOUT ================= -->
-
-
-<!-- ================= TECH STACK ================= -->
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,django,flask,mysql,postgres,mongodb,aws,git&perline=6" />
-</p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects  
-
-### 🔥 Alpha-Run Predictor AI  
-📊 AI-based stock prediction using ML + NLP  
-🔗 https://github.com/sudishtakumar/Alpha-Run-Predictor-AI  
-
----
-
-### 🤖 HFT Engine Trade Bot  
-📈 Real-time algorithmic trading system using APIs  
-🔗 https://github.com/sudishtakumar/HFT-Engine-TradeBot-  
-
----
-
-### ⚡ Job Application Automation  
-🤖 Automated job application system using Selenium  
-
----
-
-<!-- ================= STATS ================= -->
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudishtakumar&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudishtakumar&theme=tokyonight" height="160"/>
-</p>
-
----
-
-<!-- ================= FOOTER ================= -->
-<h3 align="center">💬 Let’s Build Scalable & Intelligent Systems Together!</h3>
-
-<p align="center">
-⭐ Turning Data into Decisions | Code into Real-World Impact
-</p>
-
-
-
-
-
-
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sudishtakumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sudishta-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:sudishtakumar777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/sudishtakumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-
-  <!-- Portfolio Website -->
-  <a href="https://sudishtakumar.github.io/MyWebsites/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome" />
-  </a>
-
-  <!-- Resume View -->
-  <a href="https://drive.google.com/file/d/19FcZNiQ1nLD3RluGpSkXYqnJpKvQLVHt/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=readthedocs" />
-  </a>
-
-  <!-- Resume Download -->
-  <a href="https://drive.google.com/uc?export=download&id=19FcZNiQ1nLD3RluGpSkXYqnJpKvQLVHt">
-    <img src="https://img.shields.io/badge/Resume-Download-yellow?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudishtakumar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
 ## 👋 About Me
 
 Hi, I'm **Sudishta Kumar Yadav**, a Computer Science undergraduate specializing in Artificial Intelligence.
@@ -137,16 +46,11 @@ Hi, I'm **Sudishta Kumar Yadav**, a Computer Science undergraduate specializing 
 - 🧠 Practicing **DSA in C++ , Python**, with **750+ problems solved** on **LeetCode** and **GFG**
 - 🚀 Currently working on an **Algo Trading Web App** that scans 1000+ stocks using technical filters
 - 🔐 Focused on writing clean, secure, and scalable code
-- 🎯 Always eager to collaborate on **AI**, **FinTech**, and **open-source** projects
+- 🎯 Always eager to collaborate on **AI**, **FinTech**, and **open-source** project
+- <img align = "right" alt ="coding" width ="400" src="https://syncwin.com/wp-content/uploads/2020/09/Mohammed-Wasim-Akram-Working-Mode-Avatar-Founder-of-SyncWin-HD.png">  
 
-📫 [sudishtakumar2023@gmail.com](mailto:sudishtakumar2023@gmail.com) | [LinkedIn](https://linkedin.com/in/sudishtakumar)
-
-
-
-
-<img align = "right" alt ="coding" width ="400" src="https://syncwin.com/wp-content/uploads/2020/09/Mohammed-Wasim-Akram-Working-Mode-Avatar-Founder-of-SyncWin-HD.png">  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudishtakumar&label=Profile%20views&color=0e75b6&style=flat" alt="sudishtakumar" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudishtakumar&label=Profile%20views&color=0e75b6&style=flat" alt="sudishtakumar" /> </p> -->
+<br>
 
 - 🔭 I’m currently working on developing a High-Frequency Trading (HFT) system for the Indian stock market using Python ,C++ and data using TradingView and real-time APIs. [HFT-Engine Trade Bot](https://github.com/sudishtakumar/HFT-Engine-TradeBot-.git)
 
@@ -184,16 +88,27 @@ Hi, I'm **Sudishta Kumar Yadav**, a Computer Science undergraduate specializing 
 <a href="https://www.topcoder.com/members/sudishtakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sudishtakumar" height="30" width="40" /></a>
 </p>
 <br>
+<!-- ================= TECH STACK ================= -->
+<!-- ## 🛠️ Tech Stack  
+
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,django,flask,mysql,postgres,mongodb,aws,git&perline=6" />
+</p> --> -->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudishtakumar&show_icons=true&locale=en&layout=compact" alt="sudishtakumar" /></p>
+<!-- ================= FOOTER ================= -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudishtakumar&show_icons=true&locale=en" alt="sudishtakumar" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudishtakumar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+⭐ Turning Data into Decisions | Code into Real-World Impact
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudishtakumar&" alt="sudishtakumar" /></p>
+<h3 align="left">💬 Let’s Build Scalable & Intelligent Systems Together!</h3>
 <br>
 
 <!-- Snake Game Repo View -->
