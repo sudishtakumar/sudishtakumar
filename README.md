@@ -29,48 +29,44 @@
     <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=readthedocs" />
   </a>
   <a href="https://drive.google.com/uc?export=download&id=19FcZNiQ1nLD3RluGpSkXYqnJpKvQLVHt">
-    <img src="https://img.shields.io/badge/Resume-Download-yellow?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/Resume-Download-yellow?style=for-the-badge&logo=adob"/>
+      
+## 👋 About Me  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudishtakumar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+Hi, I'm **Sudishta Kumar Yadav**, a Computer Science (AI) undergraduate and **Python Developer o rBackend Development, Data Science, and Backend Development** with strong expertise in **professional Equity Derivatives & Algorithmic Trader** . 
+I have hands-on experience in **Indian and Global markets, including Equities, Derivatives, and Crypto (BTC)**, where I focus on **data-driven trading, strategy development, and disciplined risk management**.
+I build **scalable systems, ML models, and real-time applications**, backed by a strong problem-solving foundation with **750+ DSA with Python/C++ problems solved**.  
+My goal is to combine **technology + finance** to build intelligent, automated systems that solve real-world problems.
 
-## 👋 About Me
+### 💼 Experience  
+<img align = "right" alt ="coding" width ="400" src="https://syncwin.com/wp-content/uploads/2020/09/Mohammed-Wasim-Akram-Working-Mode-Avatar-Founder-of-SyncWin-HD.png">  
 
-Hi, I'm **Sudishta Kumar Yadav**, a Computer Science undergraduate specializing in Artificial Intelligence.
 
-- 💻 I love building full-stack web applications using **Python**, **React**, **Node.js**, and **Django** **API** , **Data Visualization**, **Machine Learning**
-- 📈 I'm passionate about **algorithmic trading**, automation, and solving real-world problems
-- 🧠 Practicing **DSA in C++ , Python**, with **750+ problems solved** on **LeetCode** and **GFG**
-- 🚀 Currently working on an **Algo Trading Web App** that scans 1000+ stocks using technical filters
-- 🔐 Focused on writing clean, secure, and scalable code
-- 🎯 Always eager to collaborate on **AI**, **FinTech**, and **open-source** project
-- <img align = "right" alt ="coding" width ="400" src="https://syncwin.com/wp-content/uploads/2020/09/Mohammed-Wasim-Akram-Working-Mode-Avatar-Founder-of-SyncWin-HD.png">  
+- 📈**Python Developer** , **Equity Trader & Algo Developer (3.5+ Years)**  
+  - Executed **intraday, swing, and positional trades** using technical & fundamental analysis  
+  - Strong focus on **risk management, capital preservation, and consistency** Experience across **Indian markets (NSE/BSE), Global equities, and Crypto (BTC)**  
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudishtakumar&label=Profile%20views&color=0e75b6&style=flat" alt="sudishtakumar" /> </p> -->
-<br>
+- 🤖 Transitioned into **Algorithmic Trading**  
+  - Developed **Python-based trading strategies & bots** Integrated **Zerodha (Kite API), Dhan API** for real-time execution and Built **backtesting systems & data pipelines** for performance optimization  
 
-- 🔭 I’m currently working on developing a High-Frequency Trading (HFT) system for the Indian stock market using Python ,C++ and data using TradingView and real-time APIs. [HFT-Engine Trade Bot](https://github.com/sudishtakumar/HFT-Engine-TradeBot-.git)
+### 🧰 Projects  
 
-- 🌱I’m currently learning real-time data processing and visualization for stock market analysis using WebSockets and TradingView **Data Science/ML ,FastAPI ,Flask ,**
+- 🔥 **Alpha-Run Predictor AI**  
+   AI-based stock prediction using ML + NLP + real-time dashboards  
 
-- 👯 I’m looking to collaborate on cross-functional projects that blend engineering, data science on quantitative finance projects like algo trading systems or HFT platforms and automation. [Alpha-Run Predictor AI](https://github.com/sudishtakumar/Alpha-Run-Predictor-AI.git)
+- 🤖 **HFT Engine Trade Bot**  
+   Algorithmic trading system using APIs & sentiment + price analysis  
 
-- 🤝I’m looking for help with deploying a Python-based REST API to production using Docker and cloud services. [HFT-Engine Trade Bot](https://github.com/sudishtakumar/HFT-Engine-TradeBot-.git)
+- ⚡ **Job Automation System**  
+    Automated LinkedIn job applications using Python & Selenium  
 
-- 👨‍💻 All of my projects are available at [https://github.com/sudishtakumar](https://github.com/sudishtakumar)
+### 🌍 Community & Sharing  
 
-- 📝 I regularly write articles on [https://stackoverflow.com/users/22943924/sudishta-kumar-yadav](https://stackoverflow.com/users/22943924/sudishta-kumar-yadav)
-
-- 💬 Ask me about **Python · Data Science · APIs · ML Models · Backend Engineering · FastAPI · Algo Trading · Git · Cloud Deployment**
-
-- 📫 How to reach me **https://‪www.linkedin.com/in/sudishtakumar/‬**
-
-- 📄 Know about my experiences [https://sudishtakumar.github.io/MyWebsites/](https://sudishtakumar.github.io/MyWebsites/)
-
-- ⚡ Fun fact **🎉 Fun fact: I once trained a model that could predict stock trends better than my friends' gut feeling**
+- 💡 Actively sharing projects and knowledge on **GitHub & LinkedIn** Open to collaboration in **AI, FinTech, and Backend Engineering**  
+- 📢 Focused on building impactful projects and growing with the developer community  
+### ⚡ Fun Fact  
+🎯 I believe **strong risk management and data-driven decisions are the key to long-term success in both trading and technology**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
