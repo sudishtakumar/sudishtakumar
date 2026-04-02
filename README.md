@@ -40,7 +40,8 @@ Hi, I'm **Sudishta Kumar Yadav**, a Computer Science (AI) undergraduate and **Py
 
 I have hands-on experience in **Indian and Global markets, including Equities, Derivatives, and Crypto (BTC)**, where I focus on **data-driven trading, strategy development, and disciplined risk management**.
 
-I build **scalable systems, ML models, and real-time applications**, backed by a strong problem-solving foundation with **750+ DSA with Python/C++ problems solved**.  
+I build **scalable systems, ML models, and real-time applications**, backed by a strong problem-solving foundation with **750+ DSA with Python/C++ problems solved**.
+
 My goal is to combine **technology + finance** to build intelligent, automated systems that solve real-world problems.
 
 ### 💼 Experience  
