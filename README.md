@@ -100,7 +100,7 @@ My goal is to combine **technology + finance** to build intelligent, automated s
 
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,django,flask,mysql,postgres,mongodb,aws,git&perline=6" />
-</p> --> -->
+</p> --> 
 
 
 <h3 align="left">Languages and Tools:</h3>
