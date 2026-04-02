@@ -30,6 +30,10 @@
   </a>
   <a href="https://drive.google.com/uc?export=download&id=19FcZNiQ1nLD3RluGpSkXYqnJpKvQLVHt">
     <img src="https://img.shields.io/badge/Resume-Download-yellow?style=for-the-badge&logo=adob"/>
+    
+   <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudishtakumar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
       
 ## 👋 About Me  
 
