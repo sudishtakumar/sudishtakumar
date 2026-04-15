@@ -78,21 +78,50 @@ My goal is to combine **technology + finance** to build intelligent, automated s
 ### ⚡ Fun Fact  
 🎯 I believe **strong risk management and data-driven decisions are the key to long-term success in both trading and technology**
  
+<!-- ================= >Connect with me ================= -->
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://dev.to/sudishtakumar66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sudishtakumar66" height="30" width="40" /></a>
-<a href="https://twitter.com/@sudishtarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sudishtarai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/sudishtakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sudishtakumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22943924/sudishta-kumar-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22943924/sudishta-kumar-yadav" height="30" width="40" /></a>
-<a href="https://fb.com/sudishtarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudishtarai" height="30" width="40" /></a>
-<a href="https://instagram.com/sudishta_kumar_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudishta_kumar_rai" height="30" width="40" /></a>
-<a href="https://medium.com/@sudishtakumar2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sudishtakumar2023" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@coderunitsbysudishta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@coderunitsbysudishta" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sudishtakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sudishtakumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sudishtakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudishtakumar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sudishtaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sudishtaray" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/sudishtakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sudishtakumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sudishtakumar" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+</a>
+<a href="https://twitter.com/sudishtarai" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
+</a>
+<a href="https://github.com/sudishtakumar" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" />
+</a>
+<a href="https://fb.com/sudishtarai" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+</a>
+<a href="https://instagram.com/sudishta_kumar_rai" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
+</a>
+<a href="https://stackoverflow.com/users/22943924/sudishta-kumar-yadav" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" />
+</a>
+<a href="https://dev.to/sudishtakumar66" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" />
+</a>
+<a href="https://codeforces.com/profile/sudishtakumar" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" />
+</a>
+<a href="https://www.leetcode.com/sudishtakumar" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/sudishtaray" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" />
+</a>
+<a href="https://medium.com/@sudishtakumar2023" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" />
+</a>
+<a href="https://www.youtube.com/@coderunitsbysudishta" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" />
+</a>
+<a href="https://www.topcoder.com/members/sudishtakumar" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" />
+</a>
 </p>
 <br>
 <!-- ================= TECH STACK ================= -->
