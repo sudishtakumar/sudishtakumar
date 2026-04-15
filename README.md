@@ -1,19 +1,18 @@
 <!-- ================= HERO SECTION ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=180&section=header&text=Sudishta%20Kumar%20Yadav&&fontSize=32&fontColor=000"
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=180&section=header&text=Sudishta%20Kumar%20Yadav&&fontSize=32&fontColor=000" -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=180&section=header&text=Hi%20👋,%20I'm%20Sudishta%20Kumar%20Yadav%20🧑‍🎓&fontSize=32&fontColor=000"
 id="gh-light-mode-only"/>
-<!-- Hi%20👋,%20I'm%20Sudishta%20Kumar%20Yadav%20🧑‍🎓-->
+  
 </p>
-<h1 align="center">Hi  👋, I'm Sudishta Kumar Yadav🧑‍🎓</h1>
+<!-- <h1 align="center">Hi  👋, I'm Sudishta Kumar Yadav🧑‍🎓</h1> -->
 <h3 align="center">
 🚀 Full Stack Python Developer | Data Science | Equity Derivatives & Algo Trading
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Python+Developer;Data+Science;Equity+%26+Derivatives+Algorithmic+Trading" />
 </p>
-
-
 
 ---
 <!-- ================= BUTTONS ================= -->
